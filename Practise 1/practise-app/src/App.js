@@ -4,9 +4,9 @@ class App extends Component {
   render(){
     return (
        <div>
-         <Student name = "1"/>
-         <Student name = "2"/>
-         <Student name = "3"/>
+         <Student name="ashar" roll = {1}/>
+         <Student name="malik" roll = {2}/>
+         <Student name="owais" roll= {3}/>
        </div>
     )
   }
